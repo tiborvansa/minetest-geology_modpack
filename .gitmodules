@@ -1,0 +1,3 @@
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/tiborvansa/minetest-moreore.git
