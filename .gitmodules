@@ -1,3 +1,9 @@
 [submodule "moreores"]
 	path = moreores
 	url = https://github.com/tiborvansa/minetest-moreore.git
+[submodule "magma_conduits"]
+	path = magma_conduits
+	url = https://github.com/minetest-mods/magma_conduits.git
+[submodule "subterrane"]
+	path = subterrane
+	url = https://github.com/minetest-mods/subterrane.git
